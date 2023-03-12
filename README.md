@@ -16,5 +16,6 @@ I'm an developer and content creator building my version of the digital world on
 <br />
 <details>
  <summary>
-   <h3>👨‍💻 Quan Coding Journey</h3></summary>
-   I started my coding journey as a student with a passion to learn everything I could about this programming world teaching myself with a dream to build my own app, but that soon got overshadowed by my desire to excel in other lanuages.
+<h3>👨‍💻 Quan Coding Journey</h3>
+</summary>
+   I started my coding journey as a student with a passion to learn everything I could about this programming world teaching myself with a dream to build my own app.
