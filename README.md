@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="left">Hello 👋, I'm Quantavio</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantavio&show_icons=true&locale=en&layout=compact" alt="quantavio" /></p>
 
