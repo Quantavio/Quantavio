@@ -12,11 +12,11 @@
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px; pointer-events: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-<h1 align="left">Hello 👋, I'm Quantavio</h1>
+<h1 align="left">Hello 👋, I'm Quan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantavio&show_icons=true&locale=en&layout=compact" alt="quantavio" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quan&show_icons=true&locale=en&layout=compact" alt="Quan" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=quantavio&show_icons=true&locale=en" alt="quantavio" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Quan&show_icons=true&locale=en" alt="Quan" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quantavio&" alt="quantavio" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Quan&" alt="Quan" /></p>
