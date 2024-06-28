@@ -24,6 +24,3 @@
 
 <a href="https://discord.com/users/490371485152575495"><img src="https://lanyard.cnrad.dev/api/490371485152575495?borderRadius=20px&bg=00000000" alt="Discord" /></a>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Quan&" alt="Quan" /></p>
-
-https://discord.com/users/490371485152575495
