@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Always+learning+new+things;2%2B+year+of+coding+experience" alt="Typing SVG" /></a>
   </a>
 </p>
 
