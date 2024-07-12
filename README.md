@@ -15,7 +15,6 @@
 </div>
 
 <h1 align="left">Hello 👋, I'm Quan</h1>
-<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quan&show_icons=true&locale=en&layout=compact" alt="Quan" /></p>
 
